@@ -18,3 +18,5 @@ cp home_src/* create-react-app/my-app/
 
 cd my-app
 npm start
+
+happy development!
